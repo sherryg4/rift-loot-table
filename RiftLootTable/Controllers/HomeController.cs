@@ -1,4 +1,5 @@
-﻿using System;
+﻿using RiftLootTable.Models;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
@@ -8,6 +9,13 @@ namespace RiftLootTable.Controllers
 {
     public class HomeController : Controller
     {
+        private RiftLootTableContext _context;
+
+        public HomeController(RiftLootTableContext context)
+        {
+            this._context = context;
+        }
+
         public ActionResult Index()
         {
             return View();
