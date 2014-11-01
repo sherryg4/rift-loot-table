@@ -92,7 +92,7 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\..\..\GitHub\rift-loot-table\RiftLootTable\RiftLootTable.csproj">
+    <ProjectReference Include="..\RiftLootTable\RiftLootTable.csproj">
       <Project>{0B1B727D-3368-43EB-BBC3-3CBB12398398}</Project>
       <Name>RiftLootTable</Name>
     </ProjectReference>

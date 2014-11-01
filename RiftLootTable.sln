@@ -1,11 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
-VisualStudioVersion = 12.0.30723.0
+VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RiftLootTable", "RiftLootTable\RiftLootTable.csproj", "{0B1B727D-3368-43EB-BBC3-3CBB12398398}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RiftLootTable.Tests", "..\..\Visual Studio 2013\Projects\RiftLootTable\RiftLootTable.Tests\RiftLootTable.Tests.csproj", "{A97AED66-8451-41A2-8C86-A121447108D4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RiftLootTable.Tests", "RiftLootTable.Tests\RiftLootTable.Tests.csproj", "{A97AED66-8451-41A2-8C86-A121447108D4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
