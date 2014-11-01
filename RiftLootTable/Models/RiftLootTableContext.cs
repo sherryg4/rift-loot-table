@@ -9,5 +9,10 @@ namespace RiftLootTable.Models
     public class RiftLootTableContext : DbContext
     {
         public IDbSet<GameVersion> GameVersions { get; set; }
+
+        protected override void OnModelCreating(DbModelBuilder modelBuilder)
+        {
+            base.OnModelCreating(modelBuilder);
+        }
     }
 }
