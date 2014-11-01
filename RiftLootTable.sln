@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RiftLootTable", "RiftLootTable\RiftLootTable.csproj", "{0B1B727D-3368-43EB-BBC3-3CBB12398398}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RiftLootTable.Tests", "..\..\Visual Studio 2013\Projects\RiftLootTable\RiftLootTable.Tests\RiftLootTable.Tests.csproj", "{A97AED66-8451-41A2-8C86-A121447108D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B1B727D-3368-43EB-BBC3-3CBB12398398}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B1B727D-3368-43EB-BBC3-3CBB12398398}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B1B727D-3368-43EB-BBC3-3CBB12398398}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B1B727D-3368-43EB-BBC3-3CBB12398398}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A97AED66-8451-41A2-8C86-A121447108D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A97AED66-8451-41A2-8C86-A121447108D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A97AED66-8451-41A2-8C86-A121447108D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A97AED66-8451-41A2-8C86-A121447108D4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
